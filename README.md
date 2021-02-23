@@ -1,0 +1,1 @@
+Keywords extractor (Conditional Random Fields model) for short documents for polish language. 
